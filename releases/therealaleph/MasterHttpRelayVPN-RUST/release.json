@@ -1,7 +1,7 @@
 {
-  "tag": "v1.9.18",
+  "tag": "v1.9.19",
   "status": "stable",
-  "published_at": "2026-05-08T03:15:13Z",
-  "filter_pattern": "mhrv-rs-android-arm64-v8a-v1.9.18.apk",
-  "updated_at": "2026-05-08T09:03:05Z"
+  "published_at": "2026-05-10T14:20:12Z",
+  "filter_pattern": "mhrv-rs-android-arm64-v8a-v1.9.19.apk",
+  "updated_at": "2026-05-10T19:32:34Z"
 }
