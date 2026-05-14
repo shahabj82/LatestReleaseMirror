@@ -165,5 +165,5 @@ sha256sum FILE_NAME
 
 | File | Size | Download |
 |------|------|----------|
-| `v2rayNG_2.1.7-fdroid_arm64-v8a.apk` | 26.8 MB | [⬇️ Download](https://raw.githubusercontent.com/shahabj82/LatestReleaseMirror/main/releases/2dust/v2rayng/v2rayNG_2.1.7-fdroid_arm64-v8a.apk) |
+| `v2rayNG_2.1.7_arm64-v8a.apk` | 26.8 MB | [⬇️ Download](https://raw.githubusercontent.com/shahabj82/LatestReleaseMirror/main/releases/2dust/v2rayng/v2rayNG_2.1.7_arm64-v8a.apk) |
 <!-- RELEASES_END -->
