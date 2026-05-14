@@ -157,13 +157,13 @@ sha256sum FILE_NAME
 
 
 <!-- RELEASES_START -->
-<div id="therealaleph--masterhttprelayvpn-rust"></div>
+<div id="2dust--v2rayng"></div>
 
-### therealaleph--MasterHttpRelayVPN-RUST
+### 2dust--v2rayng
 
-🔗 [source](https://github.com/therealaleph/MasterHttpRelayVPN-RUST) – [<code><small>v1.9.25</small></code>](https://github.com/therealaleph/MasterHttpRelayVPN-RUST/releases/tag/v1.9.25)
+🔗 [source](https://github.com/2dust/v2rayng) – [<code><small>2.1.7</small></code>](https://github.com/2dust/v2rayng/releases/tag/2.1.7)
 
 | File | Size | Download |
 |------|------|----------|
-| `mhrv-rs-android-arm64-v8a-v1.9.25.apk` | 18.6 MB | [⬇️ Download](https://raw.githubusercontent.com/shahabj82/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-arm64-v8a-v1.9.25.apk) |
+| `v2rayNG_2.1.7-fdroid_arm64-v8a.apk` | 26.8 MB | [⬇️ Download](https://raw.githubusercontent.com/shahabj82/LatestReleaseMirror/main/releases/2dust/v2rayng/v2rayNG_2.1.7-fdroid_arm64-v8a.apk) |
 <!-- RELEASES_END -->
